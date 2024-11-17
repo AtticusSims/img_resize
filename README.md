@@ -38,6 +38,14 @@ This Python script resizes images in a folder so that their shortest side is 102
 
 ## Installation
 
+### Option 1: Download from GitHub (推奨)
+Clone the repository:
+```bash
+git clone https://github.com/AtticusSims/img_resize.git
+cd img_resize
+```
+
+### Option 2: Manual Setup
 1. First, create a new folder for the project and copy `resize_to_side.py` into it.
 
 2. Install the required Python packages:
@@ -199,6 +207,14 @@ Output folder:
 
 ## インストール
 
+### オプション1: GitHubからダウンロード（推奨）
+リポジトリをクローン:
+```bash
+git clone https://github.com/AtticusSims/img_resize.git
+cd img_resize
+```
+
+### オプション2: 手動セットアップ
 1. 新しいフォルダを作成し、`resize_to_side.py`をそこにコピー
 
 2. 必要なPythonパッケージをインストール:
